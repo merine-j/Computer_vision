@@ -1,1 +1,1 @@
-# Computer_vision
+# pedestrian-detection
